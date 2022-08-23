@@ -13,9 +13,9 @@ using UnityEngine;
 
 public class Paula
 {
-  string name = "Paula Picolott"
-  string knowledge = "Jogos Digitais"
-  string[] programmingLanguages = {"C#", "C++", "Java", "Groovy", "Python", "JavaScript"}
+  string name = "Paula Picolott";
+  string knowledge = "Jogos Digitais";
+  string[] programmingLanguages = {"C#", "C++", "Java", "Groovy", "Python", "JavaScript"};
 }
 ```
 

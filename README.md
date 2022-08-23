@@ -8,7 +8,7 @@ Gosto de criar jogos.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="300" src="https://giphy.com/gifs/funny-mama-hacker-137EaR4vAOCn1S" />
+<img align="right" width="270" src="<"https://giphy.com/embed/137EaR4vAOCn1S">via GIPHY</a></p>" />
 
 ```C#
 using System.Collections;

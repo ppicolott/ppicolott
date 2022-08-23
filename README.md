@@ -1,4 +1,4 @@
-### Game Programmer
+### Paula Picolott - Game Programmer
 
 Hello, I am Paula Picolott, undergraduated as Digital Games Technologist by Fatec and my goal is to create unique and memorable game experiences, applying best quality coding standards.
 

@@ -8,7 +8,7 @@ Gosto de criar jogos.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="270" src="https://i.gifer.com/7SvE.gif" />
+<img align="right" width="270" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 
 ```C#

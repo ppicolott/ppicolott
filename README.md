@@ -2,6 +2,10 @@
 
 Gosto de criar jogos.
 
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paulapicolott/)
+[<img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">](https://ppicolott.itch.io/)
+[<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/)
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -41,8 +45,3 @@ public class Paula
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppicolott&show_icons=true&theme=dracula&line_height=27" alt="**PAULA** github stats"/>
 </a>
-
-[portfólio no itch.io]: https://ppicolott.itch.io/
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paulapicolott/)
-[twitter]: https://twitter.com/
-<br>

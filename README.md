@@ -42,7 +42,7 @@ public class Paula
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppicolott&show_icons=true&theme=dracula&line_height=27" alt="**PAULA** github stats"/>
 </a>
 
-[Portfólio no itch.io]: https://ppicolott.itch.io/
-<code><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/paulapicolott/"></code> 
+[portfólio no itch.io]: https://ppicolott.itch.io/
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paulapicolott/)
 [twitter]: https://twitter.com/
 <br>

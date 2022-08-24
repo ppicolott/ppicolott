@@ -5,7 +5,7 @@ Hello, my name is Paula Picolott, I hold an undergraduate degree as Digital Game
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paulapicolott/)
 [<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ppicolott)
 [<img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">](https://ppicolott.itch.io/)
-[<img height="30" width="50" src="https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/apis/at4451.png?itok=dswKcf2W">](https://gamejolt.com/@ppicolott)
+[<img height="30" width="100" src="https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/apis/at4451.png?itok=dswKcf2W">](https://gamejolt.com/@ppicolott)
 [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/)
 
 

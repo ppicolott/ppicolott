@@ -11,7 +11,7 @@ Please, check my LinkedIn and my game portfolio on itch.io. Professional links b
 
 👩‍💻 Coding tools
 
-<img align="right" width="280" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
+<img align="right" width="285" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 
 ```C#

@@ -39,3 +39,5 @@ public class Paula
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppicolott&show_icons=true&theme=dracula&line_height=27" alt="**PAULA** github stats"/>
 </a>
+
+![Snake animation](https://github.com/ppicolott/ppicolott/blob/output/github-contribution-grid-snake.svg)

@@ -19,9 +19,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Paula
+public class Player
 {
   string name = "Paula Picolott";
+  string jobs = "Archer";
   string knowledge = "Jogos Digitais";
   string[] programmingLanguages = {"C#", "C++", "Java", "Groovy", "Python"};
 }

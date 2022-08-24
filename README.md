@@ -1,6 +1,6 @@
 ### Paula Picolott - Game Programmer
 
-Hello, my name is Paula Picolott, I hold an undergraduate degree as Digital Games Technologist by Fatec 👩‍🎓, I'm also a Game Jammer 🎮, and my drive is to create unique and memorable game experiences, applying the best quality standards for code and its maintainability.
+Hello, my name is Paula Picolott, I hold an undergraduate degree as Digital Games Technologist by Fatec 👩‍🎓, I'm also a Game Jammer 🎮 and my drive is to create unique and memorable game experiences, applying the best quality standards for code and its maintainability.
 
 Please, check my LinkedIn and my game portfolio on itch.io. Professional links below:
 

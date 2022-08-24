@@ -22,7 +22,7 @@ using UnityEngine;
 public class Player
 {
   string name = "Paula Picolott";
-  string jobs = "Archer";
+  string job = "Archer";
   string knowledge = "Jogos Digitais";
   string[] programmingLanguages = {"C#", "C++", "Java", "Groovy", "Python"};
 }

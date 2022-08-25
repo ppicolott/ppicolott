@@ -9,7 +9,7 @@ Hello, my name is Paula Picolott, I hold an undergraduate degree as Digital Game
 [<img height="30" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">](https://ppicolott.itch.io/)
 [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ppicolott)
 
-### 👩‍💻 Coding tools
+### 👩‍💻 Code skills 
 
 <img align="right" width="285" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 

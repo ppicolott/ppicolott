@@ -22,9 +22,8 @@ using UnityEngine;
 public class Player
 {
   string name = "Paula Picolott";
-  string job = "Programmer and Archer";
-  string knowledge = "Games";
-  string[] programmingLanguages = {"C#", "C++", "Java", "Groovy", "Python"};
+  string job = "Game Programmer";
+  string[] programmingLanguages = {"C#", "C++", "Java", "Python"};
 }
 ```
 

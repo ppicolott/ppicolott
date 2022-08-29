@@ -10,7 +10,6 @@ Hello, my name is Paula Picolott, I hold an undergraduate degree as Digital Game
 [<img height="30" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://ppicolott.notion.site/ppicolott/Paula-Picolott-ef97834153714f938c9069b01fb2acd9)
 [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ppicolott)
 
-
 ### 👩‍💻 Code skills 🎲
 
 <img align="right" width="285" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
@@ -31,7 +30,6 @@ public class Player
 
 <img height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img height="30" src="https://user-images.githubusercontent.com/12417677/97433592-a9e07800-1915-11eb-8f0b-f4e8cdf8babb.png"> <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 
-
 ### GitHub Statistics
 
 <a href="https://github.com/Gurupreet">
@@ -41,6 +39,5 @@ public class Player
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppicolott&show_icons=true&theme=dracula&line_height=27" alt="**PAULA** github stats"/>
 </a>
-
 
 ![Snake animation](https://github.com/ppicolott/ppicolott/blob/output/github-contribution-grid-snake.svg)

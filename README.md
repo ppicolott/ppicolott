@@ -2,7 +2,6 @@
 <br>
 Hello, my name is Paula, I hold an undergraduate degree as Digital Games Technologist by Fatec 👩‍🎓, I'm also a Game Jammer 🎮 and my drive is to create unique game experiences and exciting projects!
 <br>
-<br>
 <b> Please, check my LinkedIn and my game portfolio on itch.io, containing 9 games (12/2022). Professional links below: </b>
 <br>
 <br>

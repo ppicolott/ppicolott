@@ -1,4 +1,4 @@
-## Paula Picolott - Junior C# Unity Programmer
+## Paula Picolott - Unity Programmer
 <br>
 Hello, my name is Paula, I hold an undergraduate degree as Digital Games Technologist by Fatec 👩‍🎓, I'm also a Game Jammer 🎮 and my drive is to create unique game experiences and exciting projects!
 <br>

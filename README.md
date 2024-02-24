@@ -23,10 +23,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player
+public class GameDeveloper
 {
   string name = "Paula Picolott";
-  string job = "Game Programmer";
+  string job = "Game Developer";
   string[] programmingLanguages = {"C#", "Java", "Python"};
   string[] gameEngines = {"Unity", "libGDX", "Pygame", "Phaser"};
 }

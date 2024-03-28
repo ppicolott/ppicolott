@@ -36,6 +36,7 @@ public class GameDeveloper
 <br>
 <br>
 
+
 ### GitHub Statistics
 
 <a href="https://github.com/Gurupreet">
@@ -48,4 +49,4 @@ public class GameDeveloper
 <br>
 <br>
 
-![Snake animation](https://github.com/ppicolott/ppicolott/blob/output/github-contribution-grid-snake.svg)
+[//] ![Snake animation](https://github.com/ppicolott/ppicolott/blob/output/github-contribution-grid-snake.svg)

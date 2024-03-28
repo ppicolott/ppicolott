@@ -27,8 +27,8 @@ public class GameDeveloper
 {
   private string _name = "Paula Picolott";
   private string _job = "Game Developer";
-  private string[] _programmingLanguages = new string[] {"C#", "Java", "Python"};
-  private string[] _gameEngines = new string[] {"Unity", "libGDX", "Pygame", "Phaser"};
+  private string[] _programmingLanguages = new string[] { "C#", "Java", "Python" };
+  private string[] _gameEngines = new string[] { "Unity", "libGDX", "Pygame", "Phaser" };
 }
 ```
 

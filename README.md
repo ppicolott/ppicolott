@@ -49,4 +49,4 @@ public class GameDeveloper
 <br>
 <br>
 
-[comment] ![Snake animation](https://github.com/ppicolott/ppicolott/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ppicolott/ppicolott/blob/output/github-contribution-grid-snake.svg)

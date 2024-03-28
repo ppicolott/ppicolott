@@ -15,7 +15,7 @@ Hello, my name is Paula, I hold an undergraduate degree as Digital Games Technol
 
 ### 👩‍💻 Code skills 🎲
 
-<img align="right" width="235" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
+<img align="right" width="225" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 
 ```C#
